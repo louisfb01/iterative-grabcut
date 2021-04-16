@@ -1,0 +1,7 @@
+pillow
+numpy
+scipy
+notebook
+matplotlib
+ipython
+cv2
