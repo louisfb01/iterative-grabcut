@@ -2,7 +2,7 @@
 
 This algorithm is uses a rectangle made by the user to identify the foreground item. Then, the user can edit to add or remove objects to the foreground. Once done, it removes the background and makes it transparent (adds alpha channel) and saves it.
 
-This is a simple notebook implementing the [GrabCut algorithm](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_grabcut/py_grabcut.html)
+This is a simple notebook implementing the [GrabCut algorithm](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_grabcut/py_grabcut.html) shown in the [High-Quality Background Removal Without Green Screens | State of the Art Approach Explained](https://youtu.be/rUo0wuVyefU) video on What's AI's channel.
 
 ## How does it work? With example
 
@@ -52,4 +52,5 @@ https://user-images.githubusercontent.com/70274208/115054217-fca2f180-9ead-11eb-
 
 
 References:
+
 Interactive Foreground Extraction using GrabCut Algorithm, OpenCV, (2013), https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_grabcut/py_grabcut.html
