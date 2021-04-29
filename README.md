@@ -1,6 +1,6 @@
 # iterative-grabcut: Using simple rectangle for identifying foreground items
 
-This algorithm is uses a rectangle made by the user to identify the foreground item. Then, the user can edit to add or remove objects to the foreground. Once done, it removes the background and makes it transparent (adds alpha channel) and saves it.
+This algorithm uses a rectangle made by the user to identify the foreground item. Then, the user can edit to add or remove objects to the foreground. Once done, it removes the background and makes it transparent (adds alpha channel) and saves it.
 
 This is a simple notebook implementing the [GrabCut algorithm](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_grabcut/py_grabcut.html) shown in the [High-Quality Background Removal Without Green Screens | State of the Art Approach Explained](https://youtu.be/rUo0wuVyefU) video on What's AI's channel.
 
