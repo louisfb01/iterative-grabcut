@@ -4,6 +4,8 @@ This algorithm uses a rectangle made by the user to identify the foreground item
 
 This is a simple notebook implementing the [GrabCut algorithm](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_grabcut/py_grabcut.html) shown in the [High-Quality Background Removal Without Green Screens | State of the Art Approach Explained](https://youtu.be/rUo0wuVyefU) video on What's AI's channel.
 
+Background removal with GrabCut [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/louisfb01/iterative-grabcut/blob/main/BackgroundRemoval_Iterative.ipynb)
+
 ## How does it work? With example
 
 1. Upload your image.
